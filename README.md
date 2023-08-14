@@ -16,7 +16,7 @@
 
 ## Connect with me
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZ6bWVjZjFraWxod3B3bDlxOWk0d3BxNmh6ZHB5YnowemdoZnJpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQ9RplY8BmWr0AqMWX/giphy.gif"width="100"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZ6bWVjZjFraWxod3B3bDlxOWk0d3BxNmh6ZHB5YnowemdoZnJpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQ9RplY8BmWr0AqMWX/giphy.gif"width="120"/>
 </div>
 <p align="center">
 	<a href="mailto:alexandp83@mail.ru"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
