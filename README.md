@@ -51,6 +51,9 @@
 </br>
 <img src="https://komarev.com/ghpvc/?username=Alexxxandr83&style=flat-square&color=blue" alt=""/>
   </div></br>
+
+  <iframe align="center" alt="GIF" height="500px" src="http://rzhunemogu.ru/Widzh/Aforizm.aspx"
+        frameborder="0"></iframe>
 	
 <!--
 **Alexxxandr83/Alexxxandr83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
