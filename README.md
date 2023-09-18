@@ -53,10 +53,6 @@
   </div></br>
 
 
-<div style="text-align:center">
-<img src="http://rzhunemogu.ru/Widzh/Aforizm.aspx" />
-</div>
-	
 <!--
 **Alexxxandr83/Alexxxandr83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
