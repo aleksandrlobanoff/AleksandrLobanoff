@@ -7,7 +7,7 @@
 ## About Me :
 
 - 🎓 Developing myself as a Python Developer at [SkyPro](https://sky.pro/)  <img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/KDYB0cH4HW8xc3VIAx/giphy.gif" />
-- 🏡 Lives in **Kaliningrad, Russia**
+<!--- 🏡 Lives in **Kaliningrad, Russia** -->
 <br>
 
 
