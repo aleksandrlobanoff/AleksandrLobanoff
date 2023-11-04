@@ -1,7 +1,7 @@
 # Hi , I'm Aleksandr Lobanov 👋 
 <p align="center"
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&lines=I'm+Python+Junior+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&lines=I'm+Python+Developer)](https://git.io/typing-svg)
 </p>
 
 ## About Me :
