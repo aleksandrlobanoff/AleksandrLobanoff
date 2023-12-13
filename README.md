@@ -45,8 +45,8 @@
 
 ### :fire: My Stats :
 <div class="row">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxxandr83&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Alexxxandr83's Top langs" height="190">
-<img src="https://github-readme-stats.vercel.app/api?username=Alexxxandr83&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Alexxxandr83's GitHub Stats" height="190">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxxandr83&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="aleksandrlobanoff's Top langs" height="190">
+<img src="https://github-readme-stats.vercel.app/api?username=Alexxxandr83&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="aleksandrlobanoff's GitHub Stats" height="190">
 </div>
 </br>
 <img src="https://komarev.com/ghpvc/?username=Alexxxandr83&style=flat-square&color=blue" alt=""/>
