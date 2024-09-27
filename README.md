@@ -20,7 +20,7 @@
 </div>
 <p align="center">
 	<a href="mailto:alexandp83@mail.ru"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Alexxxandr83"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/aleksandrlobanoff"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/79114752014"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://t.me/San4eys83"><img src="https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
 	
@@ -49,12 +49,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=aleksandrlobanoff&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="aleksandrlobanoff's GitHub Stats" height="190">
 </div>
 </br>
-<img src="https://komarev.com/ghpvc/?username=Alexxxandr83&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=aleksandrlobanoff&style=flat-square&color=blue" alt=""/>
   </div></br>
 
 
 <!--
-**Alexxxandr83/Alexxxandr83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aleksandrlobanoff/aleksandrlobanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
