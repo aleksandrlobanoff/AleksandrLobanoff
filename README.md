@@ -58,6 +58,13 @@
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white"/>
 </p>
 
+### 🔄 Architecture & Communication
+<p align="center">
+<img src="https://img.shields.io/badge/Event--Driven_Architecture-FF6B6B?style=plastic&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/gRPC-4285F4?style=plastic&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=plastic&logo=rest&logoColor=white"/>
+</p>
+
 ### 🗄️ Databases
 <p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white"/>
@@ -80,7 +87,6 @@
 <p align="center">
 <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=plastic&logo=rest&logoColor=white"/>
 </p>
 
 <hr>
