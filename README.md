@@ -27,19 +27,62 @@
 </p>
 
 ## 🛠️ My Skills
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+### 🐍 Python Stack
 <p align="center">
 <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/asyncio-FF6F00?style=plastic&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=plastic&logo=celery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytest-blue?style=plastic&logo=Pytest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postgresql-white?style=plastic&logo=postgresql&logoColor=Aquamarine"/>
+</p>
+
+### ☕ Java Stack
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=plastic&logo=junit5&logoColor=white"/>
+</p>
+
+### 📨 Message Brokers
+<p align="center">
+<img src="https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white"/>
+</p>
+
+### 🐳 Containerization & Orchestration
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white"/>
+</p>
+
+### ⚙️ DevOps & Tools
+<p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+</p>
+
+### 🌐 Web Technologies
+<p align="center">
 <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=plastic&logo=rest&logoColor=white"/>
 </p>
+
 <hr>
 
 
